@@ -1,0 +1,60 @@
+{
+  "districts": [
+    {
+      "name": "Dhaka",
+      "upazillas": ["Dhanmondi", "Gulshan", "Mirpur", "Uttara", "Mohammadpur", "Banani", "Motijheel", "Tejgaon", "Ramna", "Shahbag"]
+    },
+    {
+      "name": "Chittagong",
+      "upazillas": ["Agrabad", "Panchlaish", "Halishahar", "Khulshi", "Kotwali", "Pahartali", "Bayazid", "Double Mooring"]
+    },
+    {
+      "name": "Khulna",
+      "upazillas": ["Khulna Sadar", "Sonadanga", "Daulatpur", "Khalishpur", "Rupsha", "Dighalia"]
+    },
+    {
+      "name": "Rajshahi",
+      "upazillas": ["Rajshahi Sadar", "Boalia", "Motihar", "Shah Makhdum", "Paba", "Godagari"]
+    },
+    {
+      "name": "Sylhet",
+      "upazillas": ["Sylhet Sadar", "Zindabazar", "South Surma", "Companiganj", "Golapganj", "Biswanath"]
+    },
+    {
+      "name": "Barisal",
+      "upazillas": ["Barisal Sadar", "Kotwali", "Banaripara", "Gournadi", "Babuganj", "Bakerganj"]
+    },
+    {
+      "name": "Rangpur",
+      "upazillas": ["Rangpur Sadar", "Badarganj", "Mithapukur", "Gangachara", "Taraganj", "Pirganj"]
+    },
+    {
+      "name": "Mymensingh",
+      "upazillas": ["Mymensingh Sadar", "Muktagachha", "Trishal", "Bhaluka", "Gouripur", "Fulpur"]
+    },
+    {
+      "name": "Comilla",
+      "upazillas": ["Comilla Sadar", "Laksam", "Chandina", "Barura", "Debidwar", "Brahmanpara"]
+    },
+    {
+      "name": "Narayanganj",
+      "upazillas": ["Narayanganj Sadar", "Bandar", "Rupganj", "Sonargaon", "Araihazar"]
+    },
+    {
+      "name": "Gazipur",
+      "upazillas": ["Gazipur Sadar", "Tongi", "Kaliakoir", "Kapasia", "Sreepur", "Kaliganj"]
+    },
+    {
+      "name": "Jessore",
+      "upazillas": ["Jessore Sadar", "Chuadanga", "Jhenaidah", "Magura", "Narail", "Keshabpur"]
+    },
+    {
+      "name": "Bogra",
+      "upazillas": ["Bogra Sadar", "Sherpur", "Dhunat", "Gabtali", "Sariakandi", "Kahaloo"]
+    },
+    {
+      "name": "Dinajpur",
+      "upazillas": ["Dinajpur Sadar", "Birampur", "Birganj", "Bochaganj", "Chirirbandar"]
+    }
+  ]
+}
