@@ -354,7 +354,7 @@ The leaderboard ranks donors based on total donations:
 ### Simulator Testing
 
 **Notifications:**
-- Response notifications work fully on simulator
+- For limitatons, Response notifications does work fully on simulator
 - Test with multiple simulator instances for donor/requester flow
 
 **Location:**
